@@ -1,6 +1,6 @@
 # 摘要 Abstract
 
-第一、二章
+關於第一、二章的閱讀摘要
 
 中譯本將全書分成三大部份，第一部份主軸在於提供想給了解生酮飲食的人，基本的概念與如何進行。第一、二章則為認識生酮的開幕曲－什麼是“酮“。關於酮的初步知識，生酮飲食的歷史。
 
@@ -39,8 +39,6 @@
 * 酮酸\(keto acid\)
 * 酮酸中毒\(ketoacidosis\)
 
-
-
 酮體怎麼形成的？
 
 脂肪 → 中鏈三酸甘油脂\(Medium-chain triglycerides, **MCTs**\) → 肝臟分解轉換 → 酮體
@@ -51,13 +49,9 @@
 
 燃燒葡萄糖轉化為燃燒脂肪的這個過程稱為史瓦特卡需求
 
-
-
 酮體在身體裡存在的形式
 
 羥\(**ㄑㄧㄤˇ**\)基丁酸BHB
-
-
 
 **酮症的定義\(**Define what Ketosis is**\)**
 
@@ -158,6 +152,4 @@ by James W. Wheless published at 2008/11/04
 **TIL The Inuit actually don't live in permanent ketosis, they get over 50g of carbs in their diets from the glycogen in meat, also because of some genetic mutations. Should we reconsider our views on keto?**
 
 [https://www.reddit.com/r/Paleo/comments/3gcmva/discussion\_til\_the\_inuit\_actually\_dont\_live\_in/](https://www.reddit.com/r/Paleo/comments/3gcmva/discussion_til_the_inuit_actually_dont_live_in/)
-
-
 
