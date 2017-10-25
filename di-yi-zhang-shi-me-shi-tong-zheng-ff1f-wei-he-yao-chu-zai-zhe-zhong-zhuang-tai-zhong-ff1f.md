@@ -1,6 +1,16 @@
+# 摘要 Abstract
+
+第一、二章
+
+中譯本將全書分成三大部份，第一部份主軸在於提供想給了解生酮飲食的人，基本的概念與如何進行。第一、二章則為認識生酮的開幕曲－什麼是“酮“。關於酮的初步知識，生酮飲食的歷史。
+
+---
+
 # 第一章 什麼是酮症？為何要處在這種狀態中？
 
 ## What Is Ketosis and Why Do You Want It?
+
+## 
 
 中譯本將第一章分成了兩小節
 
@@ -13,7 +23,7 @@
 
 1920年代，用於控制兒童頑固性癲癇的發作，且效果卓越，當時的飲食比例為4：1，脂肪為4，蛋白質與碳水化合物總和為1
 
-\*參考文末之參考資料1，
+\(\*參考文末之參考資料1，
 
 **History of the ketogenic diet**
 
@@ -82,7 +92,7 @@ Define what Ketosis is
 
 汽車：油 －＞ 電
 
-酮症對於人類是正常的生理狀態嗎？
+## 酮症對於人類是正常的生理狀態嗎？
 
 支持人體可以使用酮體來當成主要能量來源的幾項證據與推論
 
@@ -99,4 +109,80 @@ Define what Ketosis is
 Who
 
 生酮飲食需知道的幾位人物
+
+## 
+
+---
+
+# 第二章**生酮飲食與阿金飲食不同之處**
+
+## What Makes Keto Different from the Atkins Diet?
+
+其他常與生酮一併提及的飲食法
+
+阿金
+
+防彈
+
+原始人
+
+---
+
+# 思考與延伸
+
+以下僅為為個人觀點與想法
+
+**該用什麼態度來看待生酮飲食？**
+
+以客觀與科學的角度來看。生酮飲食只是諸多飲食準則裡的一種，並無好或壞之分。任何一種飲食準則，都會有其優缺點，以及適用與不適用的人。不管選擇哪一種飲食準則，最終都只是為了達成讓自已身體健康的目的而已。
+
+**生酮飲食與均衡飲食是對立？**
+
+如上題所述，各㮔飲食準則都會有其優缺點，以及適用與不適用的人。
+
+生酮對於生活的益處\(壞處？\)
+
+東方文化是否也有相關的概念？
+
+目前尚無所獲
+
+執行與推廣生酮飲食之艱困：認知更新的困難與阻礙
+
+母乳與配方奶粉
+
+為何人不是儲存糖，而是脂肪
+
+人性：對於改變的害怕
+
+生酮飲食是一種極端的飲食方法？
+
+什麼是極端？如果這個飲食方法，是人體本來就適用，且各方證據，以及結果顯示該方法對人體安全有益處，便不應該以極端這種略帶負面的形容詞來冠上。或是以科學舉證的客觀方法，來論述該方法之優缺。
+
+實施前常見的FAQ
+
+處於酮症安全嗎？
+
+---
+
+# 參考資料 References
+
+1. **History of the ketogenic diet**
+   by James W. Wheless published at 2008/11/04
+
+出處：
+
+[https://www.ncbi.nlm.nih.gov/pubmed/19049574](https://www.ncbi.nlm.nih.gov/pubmed/19049574)
+
+全文：
+
+[http://onlinelibrary.wiley.com/doi/10.1111/j.1528-1167.2008.01821.x/full](http://onlinelibrary.wiley.com/doi/10.1111/j.1528-1167.2008.01821.x/full)
+
+1. TIL The Inuit actually don
+   '
+   t live in permanent ketosis, they get over 50g of carbs in their diets from the glycogen in meat, also because of some genetic mutations. Should we reconsider our views on keto?
+   [https://www.reddit.com/r/Paleo/comments/3gcmva/discussion\_til\_the\_inuit\_actually\_dont\_live\_in/](https://www.reddit.com/r/Paleo/comments/3gcmva/discussion_til_the_inuit_actually_dont_live_in/)
+
+
+
+
 
