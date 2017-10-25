@@ -1,7 +1,7 @@
 # Summary
 
 * [簡介 Introduction](/abstract.md)
-* [第一、二章心得整理](di-yi-3001-er-zhang-xin-de-zheng-li.md)
+* [第一、二章心得整理](/note_01.md)
 
 
 
