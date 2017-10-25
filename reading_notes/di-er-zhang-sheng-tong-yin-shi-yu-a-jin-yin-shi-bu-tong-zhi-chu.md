@@ -6,7 +6,7 @@
 
 不管是生酮飲食法，或是阿金飲食法，其本質上都是限制醣類的攝取來達到身體健康或是治療病症、減重等目的。透過歷史的檢視，便可發現低醣
 
-低醣飲食法的歷史
+### 低醣飲食的歷史
 
 早期
 
@@ -14,7 +14,7 @@
 
 當代
 
-## 低醣 vs 生酮
+## 低醣 v.s 生酮
 
 生酮飲食是低醣飲食的一種，但其他的低醣飲食法，未必可以生酮。除生酮飲食外，其他的低醣飲食法
 
@@ -23,8 +23,6 @@
 * 原始人
 
 ## 阿金飲食法簡介
-
-
 
 ## 生酮飲食與阿金飲食的異同
 
@@ -38,13 +36,11 @@
 
 低醣飲食\(wikipedia\)
 
-https://en.wikipedia.org/wiki/Low-carbohydrate\_diet
+[https://en.wikipedia.org/wiki/Low-carbohydrate\_diet](https://en.wikipedia.org/wiki/Low-carbohydrate_diet)
 
-https://www.perfectketo.com/ketogenic-diet-vs-atkins-diet-ketosis-better-atkins/
+[https://www.perfectketo.com/ketogenic-diet-vs-atkins-diet-ketosis-better-atkins/](https://www.perfectketo.com/ketogenic-diet-vs-atkins-diet-ketosis-better-atkins/)
 
-https://kickincarbclutter.blogspot.tw/2017/08/atkins-vs-keto.html
+[https://kickincarbclutter.blogspot.tw/2017/08/atkins-vs-keto.html](https://kickincarbclutter.blogspot.tw/2017/08/atkins-vs-keto.html)
 
-http://www.differencebetween.net/science/health/the-difference-between-the-atkins-and-ketogenic-diets/
-
-
+[http://www.differencebetween.net/science/health/the-difference-between-the-atkins-and-ketogenic-diets/](http://www.differencebetween.net/science/health/the-difference-between-the-atkins-and-ketogenic-diets/)
 
