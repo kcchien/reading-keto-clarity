@@ -1,3 +1,4 @@
-# First Chapter
+# 摘要 Abstract
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+中譯本將全書分成三大部份，第一部份主軸在於提供想給了解生酮飲食的人，基本的概念與如何進行。第一、二章則為認識生酮的開幕曲－什麼是“酮“。關於酮的初步知識，生酮飲食的歷史。
+
