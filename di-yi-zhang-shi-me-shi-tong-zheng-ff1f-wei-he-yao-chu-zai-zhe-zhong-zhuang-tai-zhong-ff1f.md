@@ -10,8 +10,6 @@
 
 ## What Is Ketosis and Why Do You Want It?
 
-## 
-
 中譯本將第一章分成了兩小節
 
 * **Section 1 : 身體正在燃燒脂肪**
@@ -19,19 +17,15 @@
 
 ## 從時間的角度來追根溯源 History
 
-**生酮的歷史起源**
+#### 回到原始時代，從進化論來看
+
+#### 近代**生酮飲食的歷史起源**
 
 1920年代，用於控制兒童頑固性癲癇的發作，且效果卓越，當時的飲食比例為4：1，脂肪為4，蛋白質與碳水化合物總和為1
 
-\(\*參考文末之參考資料1，
+\(\*參考文末之參考資料1，**History of the ketogenic diet **by James W. Wheless published at 2008/11/04\)
 
-**History of the ketogenic diet**
-
-by James W. Wheless published at 2008/11/04\)
-
-回到原始時代，從進化論來看
-
-現代的生酮飲食
+#### 現代的生酮飲食
 
 ## 關於酮 What Ketosis is
 
@@ -41,16 +35,15 @@ by James W. Wheless published at 2008/11/04\)
 * 酮體\(ketone\)
 * 酮症\(ketosis\)
 * 生酮\(ketogenic\)
+* 生酮飲食\(ketogenic diet\)
 * 酮酸\(keto acid\)
 * 酮酸中毒\(ketoacidosis\)
 
+
+
 酮體怎麼形成的？
 
-脂肪 → 中鏈三酸甘油脂\(Medium-chain triglycerides,
-
-**MCTs**
-
-\) → 肝臟分解轉換 → 酮體
+脂肪 → 中鏈三酸甘油脂\(Medium-chain triglycerides, **MCTs**\) → 肝臟分解轉換 → 酮體
 
 \*克氏循環
 
@@ -58,33 +51,17 @@ by James W. Wheless published at 2008/11/04\)
 
 燃燒葡萄糖轉化為燃燒脂肪的這個過程稱為史瓦特卡需求
 
+
+
 酮體在身體裡存在的形式
 
-羥\(
+羥\(**ㄑㄧㄤˇ**\)基丁酸BHB
 
-**ㄑㄧㄤˇ**
 
-\)基丁酸BHB
 
-**酮症的定義\(**
+**酮症的定義\(**Define what Ketosis is**\)**
 
-Define what Ketosis is
-
-**\)**
-
-攝取極
-
-**少量碳水化合物**
-
-、
-
-**適量蛋白質**
-
-及
-
-**大量脂肪**
-
-時出現的新陳代謝狀態。讓原本以血糖為主要能量來源的身體，改用酮體作為能量的來源。處於酮症狀態的意思，就是你的身體正在燃燒脂肪。
+攝取極**少量碳水化合物**、**適量蛋白質**及**大量脂肪**時出現的新陳代謝狀態。讓原本以血糖為主要能量來源的身體，改用酮體作為能量的來源。處於酮症狀態的意思，就是你的身體正在燃燒脂肪。
 
 \(Ketosis 發音：KEY-TOE-SIS\)
 
@@ -166,23 +143,21 @@ Who
 
 # 參考資料 References
 
-1. **History of the ketogenic diet**
-   by James W. Wheless published at 2008/11/04
+**History of the ketogenic diet**
 
-出處：
+by James W. Wheless published at 2008/11/04
 
-[https://www.ncbi.nlm.nih.gov/pubmed/19049574](https://www.ncbi.nlm.nih.gov/pubmed/19049574)
+出處：[https://www.ncbi.nlm.nih.gov/pubmed/19049574](https://www.ncbi.nlm.nih.gov/pubmed/19049574)
 
-全文：
+全文：[http://onlinelibrary.wiley.com/doi/10.1111/j.1528-1167.2008.01821.x/full](http://onlinelibrary.wiley.com/doi/10.1111/j.1528-1167.2008.01821.x/full)
 
-[http://onlinelibrary.wiley.com/doi/10.1111/j.1528-1167.2008.01821.x/full](http://onlinelibrary.wiley.com/doi/10.1111/j.1528-1167.2008.01821.x/full)
+**Ketogenic diet \(wikipedia\)**
 
-1. TIL The Inuit actually don
-   '
-   t live in permanent ketosis, they get over 50g of carbs in their diets from the glycogen in meat, also because of some genetic mutations. Should we reconsider our views on keto?
-   [https://www.reddit.com/r/Paleo/comments/3gcmva/discussion\_til\_the\_inuit\_actually\_dont\_live\_in/](https://www.reddit.com/r/Paleo/comments/3gcmva/discussion_til_the_inuit_actually_dont_live_in/)
+[https://en.wikipedia.org/wiki/Ketogenic\_diet](https://en.wikipedia.org/wiki/Ketogenic_diet)
 
+**TIL The Inuit actually don't live in permanent ketosis, they get over 50g of carbs in their diets from the glycogen in meat, also because of some genetic mutations. Should we reconsider our views on keto?**
 
+[https://www.reddit.com/r/Paleo/comments/3gcmva/discussion\_til\_the\_inuit\_actually\_dont\_live\_in/](https://www.reddit.com/r/Paleo/comments/3gcmva/discussion_til_the_inuit_actually_dont_live_in/)
 
 
 
