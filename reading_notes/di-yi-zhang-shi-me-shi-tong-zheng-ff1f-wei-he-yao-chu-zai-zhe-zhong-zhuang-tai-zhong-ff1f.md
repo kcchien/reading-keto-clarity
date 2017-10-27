@@ -7,11 +7,11 @@
 * **Section 1 : 身體正在燃燒脂肪**
 * **Section 2 : 酮症和酮酸中毒大不同**
 
+
+
 ## 從時間的角度來追根溯源 History
 
 ---
-
-### 回到原始時代，從進化論來看
 
 ### 近代**生酮飲食的歷史起源**
 
@@ -19,9 +19,7 @@
 
 癲癇是屬一種神經系統疾病 ，因腦部不正常的放電而產生是痙攣、抽搐、驚厥、昏厥等。
 
-\(\*參考文末之參考資料1，**History of the ketogenic diet **by James W. Wheless published at 2008/11/04\)
 
-### 現代的生酮飲食
 
 ## 關於酮 What Keto is
 
@@ -46,11 +44,7 @@
 
 \*史瓦特卡需求 Schwatka Imperative：燃燒葡萄糖轉化為燃燒脂肪的這個過程稱為史瓦特卡需求
 
-補充：
 
-**WHAT IS BETA HYDROXYBUTYRATE OR BHB?**
-
-[https://www.perfectketo.com/what-is-betahydroxybutyrate-or-bhb/](https://www.perfectketo.com/what-is-betahydroxybutyrate-or-bhb/)
 
 ## 關於酮症
 
@@ -93,6 +87,8 @@
 * 穩定血糖，恢復胰島素的敏感度
 * 降低發炎程度，降低血壓 
 
+
+
 ## 酮的污名化？
 
 ---
@@ -112,6 +108,8 @@
 
 > 酮酸中毒是酮症的一種，但不是所有的酮症都是酮酸中毒。
 
+
+
 ## 本章小結
 
 ---
@@ -125,6 +123,8 @@
 ### 為何要處在這種狀態中？
 
 以酮體代替葡萄糖為能量來源，能有效的控制胰島素水平，當人體處於酮症之中，對於健康也有相當多的益處。從人類演化，到近代科學客觀的證據均指出，酮症對於人體不僅是一種符合自然且健康的生理狀態，且從中可獲得的益處，也是現今許多飲食方式所無法輕易達成的。
+
+
 
 ## 補充資料
 
@@ -184,6 +184,7 @@
 * [History of the ketogenic diet](http://onlinelibrary.wiley.com/doi/10.1111/j.1528-1167.2008.01821.x/full) \(James W. Wheless published at 2008/11/04\)
 * [Ketogenic diet](https://en.wikipedia.org/wiki/Ketogenic_diet) \(wikipedia\)
 * [Ketone bodies: a review of physiology, pathophysiology, and application of monitoring to diabetes](http://onlinelibrary.wiley.com/doi/10.1002/%28SICI%291520-7560%28199911/12%2915:6<412::AID-DMRR72>3.0.CO;2-8/abstract;jsessionid=1DE3A322F4D3F3B8818257BDAA752166.f04t01) \(中文大意 酮體：評論其在生理學、病理生理學及糖尿病監控的應用\)
+* [What is beta hydroxybutyrate or BHB?](https://www.perfectketo.com/what-is-betahydroxybutyrate-or-bhb/)
 
 
 
