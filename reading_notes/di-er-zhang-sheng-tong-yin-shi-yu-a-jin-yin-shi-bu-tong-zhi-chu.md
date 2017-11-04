@@ -12,7 +12,7 @@
 
 ### 早期
 
-1979  John Rollo 使用低醣飲食治療兩位患有糖尿病的軍官。
+1879  John Rollo 使用低醣飲食治療兩位患有糖尿病的軍官。
 
 1863  [William Banting](https://en.wikipedia.org/wiki/William_Banting "About William Banting"), 一位英國著名的殯葬業者，出版了一本 "_Letter on Corpulence Addressed to the Public_" 的小冊子，記載了他透過不吃麵包、奶油、牛奶、糖、啤酒及馬鈴薯，達成體重控制的方法。當時轟動社會，在當時這個字甚至成為了減肥的動詞，也一直沿用至今。
 
