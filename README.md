@@ -18,5 +18,5 @@
 
 \(原著書名原文: Keto Clarity: Your Definitive Guide to the Benefits of a Low-Carb, High-Fat Diet\)
 
-<img width=720 alt="原著封面" src="/assets/keto-clarity-bookcover-tw.jpg" align="center">
+<img width=200 alt="原著封面" src="/assets/keto-clarity-bookcover-tw.jpg" align="center">
 
