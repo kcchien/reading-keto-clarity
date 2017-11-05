@@ -4,10 +4,8 @@
 
 <p align="center">
 線上版本 https://goo.gl/BiR5vD
-
 <br>
-
-![](/assets/chart0.png)
+<img src="/assets/chart0.png">
 </p>
 
 
