@@ -1,6 +1,6 @@
 # Summary
 
-* [簡介 Introduction](README.md)
+* [簡介](README.md)
 * [閱讀心得整理](/reading_notes.md)
   * [第一章 什麼是酮症？為何要處在這種狀態中？](/reading_notes/ch01.md)
   * [第二章 生酮飲食與阿金飲食不同之處](/reading_notes/ch02.md)
