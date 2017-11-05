@@ -39,8 +39,7 @@
 ---
 
 尿液中的酮體為**乙酰乙酸\(AcAc\)**，酮體成為你身體主要燃料時，乙酰乙酸會轉變成**β- 羥基丁酸\(見下方示意圖\)**，所以一定要透過血液或是呼吸檢驗
-
-![脂肪酸分解酮體示意](https://i.imgur.com/ApxGSEV.jpg "\#\#\# 脂肪酸分解酮體示意圖")
+<img width="720" alt="脂肪酸分解酮體示意" src="https://i.imgur.com/ApxGSEV.jpg">
 
 使用尿液檢驗的誤區及不可靠的原因：
 
@@ -79,7 +78,6 @@
 ---
 
 * [透過呼吸檢測丙酮的儀器 KETONIX](https://www.ketonix.com "KETONIX Official site")
-<br />
 <img width="720" alt="透過呼吸檢測丙酮的儀器 KETONIX" src="https://i.imgur.com/f2MQHrq.png">
 
 * [5 Ways to Measure Your Ketones \(5種測試酮體的方法\)](http://drjockers.com/5-ways-to-measure-your-ketones/)

@@ -51,8 +51,7 @@
 「營養性酮化 \(Nutritional ketosis\)」這個詞彙在2010年，於 “The New Atkins for a New You” 此書中提出。
 
 這本書的3位共同作者 Dr. Stephen D. Phinney、Dr. Jeff S. Volek 以及 Dr. Eric C. Westman，對『營養性酮化』作出定義：**採用高脂肪、適量蛋白質、低碳水化合物飲食讓身體改變**的概念。
-
-![](/assets/the-new-atkins-for-a-new-you.jpeg | width=720)
+<img width="720" alt="The New Atkins for a New You" src="/assets/the-new-atkins-for-a-new-you.jpeg">
 
 ## 阿金飲食法簡介
 
@@ -74,10 +73,8 @@
 
 阿金飲食法演變至今，已分為兩個產品線，一個是阿金20，也就是傳統的阿金飲食法  
 ，將每日淨碳水化合物的攝取在20g以內。另一個是阿金40，將每日淨碳水化合物的攝取在40g以內，且不限制碳水化合物的食物來源。
-
-![](/assets/atkins20.jpg)
-
-![](/assets/atkins40.jpg)
+<img width=720 alt="atkins20" src="/assets/atkins20.jpg">
+<img width=720 alt="atkins40" src="/assets/atkins40.jpg">
 
 ## 生酮飲食與阿金飲食比較
 
@@ -87,7 +84,7 @@
 
 ### 生酮飲食與阿金飲食的概略差異比較表
 
-![](/assets/keto-vs-atkins.png)
+<img width=720 alt="生酮飲食與阿金飲食的概略差異比較表" src="/assets/keto-vs-atkins.png">
 
 ## 本章小結
 
