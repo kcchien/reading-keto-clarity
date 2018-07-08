@@ -1,26 +1,22 @@
-# 第二章 **生酮飲食與阿金飲食不同之處**
+# 第二章 生酮飲食與阿金飲食不同之處
 
 ## What Makes Keto Different from the Atkins Diet?
-
----
 
 不管是生酮飲食法，或是阿金飲食法，其本質上都是限制醣類的攝取來達到身體健康或是治療病症、減重等目的。透過歷史的檢視，便可發現人們很早就已經發現低醣飲食，可以為身體帶來極大的益處。也已發現碳水化合物可能帶來的危害。
 
 ## 低醣飲食的歷史
 
----
-
 ### 早期
 
-1797  John Rollo 使用低醣飲食治療兩位患有糖尿病的軍官。
+1797 John Rollo 使用低醣飲食治療兩位患有糖尿病的軍官。
 
-1863  [William Banting](https://en.wikipedia.org/wiki/William_Banting "About William Banting"), 一位英國著名的殯葬業者，出版了一本 "_Letter on Corpulence Addressed to the Public_" 的小冊子，記載了他透過不吃麵包、奶油、牛奶、糖、啤酒及馬鈴薯，達成體重控制的方法。當時轟動社會，在當時這個字甚至成為了減肥的動詞，也一直沿用至今。
+1863 [William Banting](https://en.wikipedia.org/wiki/William_Banting), 一位英國著名的殯葬業者，出版了一本 "_Letter on Corpulence Addressed to the Public_" 的小冊子，記載了他透過不吃麵包、奶油、牛奶、糖、啤酒及馬鈴薯，達成體重控制的方法。當時轟動社會，在當時這個字甚至成為了減肥的動詞，也一直沿用至今。
 
 ### 現代
 
-1958  Richard Mackarness M.D. 出版了一本關於低醣飲食的著作 "_Eat Fat and Grow Slim"_，書中的建議與基礎與十年後的阿金Robert Atkins醫師發表的論點相同。
+1958 Richard Mackarness M.D. 出版了一本關於低醣飲食的著作 "_Eat Fat and Grow Slim"_，書中的建議與基礎與十年後的阿金Robert Atkins醫師發表的論點相同。
 
-1967  Irwin Stillman出版了 "The Doctor's Quick Weight Loss Diet"。Stillman飲食法是一種高蛋白質、低醣、低脂的飲食法，可謂是美國首位成功推行低醣飲食廣為大眾所接受的先驅。其他在1960年代的低醣飲食法還有 Air Force 以及 drinking man's 飲食法等。
+1967 Irwin Stillman出版了 "The Doctor's Quick Weight Loss Diet"。Stillman飲食法是一種高蛋白質、低醣、低脂的飲食法，可謂是美國首位成功推行低醣飲食廣為大眾所接受的先驅。其他在1960年代的低醣飲食法還有 Air Force 以及 drinking man's 飲食法等。
 
 1972 Robert Atkins 發表了 Dr. Atkins Diet Revolution \(阿金醫師的減肥革命\)。由於其論點提及攝取大量脂肪與蛋白質，因此廣受當時的醫界批評。
 
@@ -34,8 +30,6 @@
 
 ## 低醣 vs. 生酮
 
----
-
 生酮飲食是低醣飲食的一種，但其他的低醣飲食法，未必可以生酮。
 
 除生酮飲食外，其他常被提及低醣飲食法如下：
@@ -46,19 +40,13 @@
 
 ## 營養性酮化
 
----
-
 「營養性酮化 \(Nutritional ketosis\)」這個詞彙在2010年，於 “The New Atkins for a New You” 此書中提出。
 
 這本書的3位共同作者 Dr. Stephen D. Phinney; Dr. Jeff S. Volek 以及 Dr. Eric C. Westman，對『營養性酮化』作出定義：**採用高脂肪、適量蛋白質、低碳水化合物飲食讓身體改變**的概念。
 
-<p align="center">
-<img width="150" alt="The New Atkins for a New You" src="/assets/the-new-atkins-for-a-new-you.jpeg">
-</p>
+![The New Atkins for a New You](../.gitbook/assets/the-new-atkins-for-a-new-you.jpeg)
 
 ## 阿金飲食法簡介
-
----
 
 阿金飲食為採用低碳水化合物，高脂肪的飲食，對於蛋白質的攝取沒有具體的限制。
 
@@ -79,31 +67,21 @@
 
 [阿金飲食計劃官網](https://www.atkins.com/how-it-works/compare-plans)
 
-<p align="center">
-    <img width=200 alt="atkins20" src="/assets/atkins20.jpg" align="center">
-</p>
+![atkins20](../.gitbook/assets/atkins20.jpg)
 
 ## 生酮飲食與阿金飲食比較
 
----
-
 在此引用阿金飲食官方網站阿金飲食與生酮飲食的比較圖，可看出兩種飲食法對食物來源比例的對照與比較
 
-<p align="center">
-    <img width=600 alt="阿金飲食與生酮飲食的比較圖" src="/assets/keto-atkins-breakdown.png">
-</p>
+![&#x963F;&#x91D1;&#x98F2;&#x98DF;&#x8207;&#x751F;&#x916E;&#x98F2;&#x98DF;&#x7684;&#x6BD4;&#x8F03;&#x5716;](../.gitbook/assets/keto-atkins-breakdown.png)
 
 ### 生酮飲食與阿金飲食的概略差異比較表
 
 以下簡單整理出生酮飲食與阿金飲食的概略差異：
 
-<p align="center">
-<img width=600 alt="生酮飲食與阿金飲食的概略差異比較表" src="/assets/keto-vs-atkins.png" align="center">
-</p>
+![&#x751F;&#x916E;&#x98F2;&#x98DF;&#x8207;&#x963F;&#x91D1;&#x98F2;&#x98DF;&#x7684;&#x6982;&#x7565;&#x5DEE;&#x7570;&#x6BD4;&#x8F03;&#x8868;](../.gitbook/assets/keto-vs-atkins.png)
 
 ## 本章小結
-
----
 
 本章主要說明了生酮飲食與阿金飲食的差異之處
 
@@ -117,26 +95,14 @@
 
 ## 補充資料
 
----
-
-* [低碳水化合物飲食\(wikipedia 英文\)](https://en.wikipedia.org/wiki/Low-carbohydrate_diet "低醣飲食\(wikipedia\)")
-
-* [低碳水化合物飲食\(wikipedia 中文\)](https://zh.wikipedia.org/wiki/%E4%BD%8E%E7%A2%B3%E6%B0%B4%E5%8C%96%E5%90%88%E7%89%A9%E9%A3%B2%E9%A3%9F "低醣飲食\(wikipedia\)")
-
+* [低碳水化合物飲食\(wikipedia 英文\)](https://en.wikipedia.org/wiki/Low-carbohydrate_diet)
+* [低碳水化合物飲食\(wikipedia 中文\)](https://zh.wikipedia.org/wiki/低碳水化合物飲食)
 * [THE KETOGENIC DIET VS THE ATKINS DIET: IS KETOSIS BETTER THAN ATKINS?](https://www.perfectketo.com/ketogenic-diet-vs-atkins-diet-ketosis-better-atkins/)
-
 * [Atkins vs Keto: Here's the Truth About Keto and Atkins](https://kickincarbclutter.blogspot.tw/2017/08/atkins-vs-keto.html)
-
 * [The Difference Between the Atkins and Ketogenic Diets](http://www.differencebetween.net/science/health/the-difference-between-the-atkins-and-ketogenic-diets/)
-
 * [History of the ketogenic diet by James W. Wheless](http://onlinelibrary.wiley.com/doi/10.1002/%28SICI%291520-7560%28199911/12%2915:6<412::AID-DMRR72>3.0.CO;2-8/full)
 
----
+ **本章節的線上版本**  
+ [https://goo.gl/U2fJww](https://goo.gl/U2fJww)  
+ ![&#x7B2C;&#x4E8C;&#x7AE0; &#x751F;&#x916E;&#x98F2;&#x98DF;&#x8207;&#x963F;&#x91D1;&#x98F2;&#x98DF;&#x4E0D;&#x540C;&#x4E4B;&#x8655;](../.gitbook/assets/chart-02.png)
 
-<p align="center">
-<b>本章節的線上版本</b>
-<br />
-<a href="https://goo.gl/U2fJww" title="第二章 生酮飲食與阿金飲食不同之處">https://goo.gl/U2fJww</a>
-<br />
-<img alt="第二章 生酮飲食與阿金飲食不同之處" src="/assets/chart-02.png">
-</p>

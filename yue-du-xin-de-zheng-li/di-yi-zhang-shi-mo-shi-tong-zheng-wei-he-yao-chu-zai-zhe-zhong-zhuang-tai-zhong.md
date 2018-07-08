@@ -1,7 +1,6 @@
 # 第一章 什麼是酮症？為何要處在這種狀態中？
 
 ## What Is Ketosis and Why Do You Want It?
----
 
 中譯本將第一章分成了兩小節
 
@@ -14,10 +13,7 @@
 
 癲癇是屬一種神經系統疾病 ，因腦部不正常的放電而產生是痙攣、抽搐、驚厥、昏厥等。
 
-
 ## 關於酮 What Keto is
-
----
 
 ### **搞懂酮的相關名詞**
 
@@ -34,15 +30,11 @@
 * **乙酰乙酸 \(acetoacetate, AcAc\)**：尿液中主要的酮體
 * **β- 羥基丁酸 \(β-hydroxybutyrate, BHB, 羥，音**ㄑㄧㄤˇ**\)**：血液中主要的的酮體
 
-<p align="center">
-<img width=600 alt="脂肪酸分解酮體示意圖" src="/assets/fatty-to-keto.png">
-</p>
+![&#x8102;&#x80AA;&#x9178;&#x5206;&#x89E3;&#x916E;&#x9AD4;&#x793A;&#x610F;&#x5716;](../.gitbook/assets/fatty-to-keto.png)
 
 \*史瓦特卡需求 Schwatka Imperative：燃燒葡萄糖轉化為燃燒脂肪的這個過程稱為史瓦特卡需求
 
 ## 關於酮症
-
----
 
 ### **酮症的定義\(**Define what Ketosis is**\)**
 
@@ -59,9 +51,7 @@
 * 病理性酮症：體內血酮值異常偏高，如血糖值與血酮值同時都很高，會導致酮酸中毒，此現象常見於糖尿病患者。發生原因請參閱文末補充。
 * 營養性酮症：體內血酮值處於0.5 ~ 3 mmol/L 之間，低血糖值處於80以下。
 
-<p align="center">
-<img width=600 alt="血酮值各區間的代表意義" src="/assets/blood-ketones-optimal.png">
-</p>
+![&#x8840;&#x916E;&#x503C;&#x5404;&#x5340;&#x9593;&#x7684;&#x4EE3;&#x8868;&#x610F;&#x7FA9;](../.gitbook/assets/blood-ketones-optimal.png)
 
 ### 酮症對於人體是正常的生理狀態嗎？
 
@@ -85,8 +75,6 @@
 
 ## 酮的污名化？
 
----
-
 ### 關於酮酸中毒
 
 大多數人，包含許多專業醫師在內，常將糖尿症的酮酸中毒與營養性酮症或是酮適應搞混。以致於聽到酮體，便立刻聯想到會致人於死的酮酸中毒。
@@ -104,8 +92,6 @@
 
 ## 本章小結
 
----
-
 閱讀完本章節後，我們得到標題問題的答案
 
 ### 什麼是酮症？
@@ -118,8 +104,6 @@
 
 ## 補充資料
 
----
-
 **代謝\(新陳代謝\)：**
 
 生物體以活細胞為單位，不斷進行物質/能量間 的交換/轉變的一種自我更新。
@@ -131,13 +115,9 @@
 最重要的是，科學家發現下列項目可以啟動生產BDNF的那一段DNA：
 
 1. 運動\(Exercise\)
-
 2. 限制卡路里\(Caloric restriction \)
-
 3. 生酮飲食\(Ketogenic diet，限制醣類的飲食\)
-
 4. DHA\(omega-3脂肪酸\)
-
 5. 薑黃素\(Curcumin\)
 
 資料來源：《Grain Brain》
@@ -163,27 +143,16 @@
 
 是有氧呼吸的第二階段，三羧酸循環可以代謝糖類、脂質，以及大部分胺基酸，因爲這三類物質都能轉換爲乙醯輔酶A或三羧酸循環的中間體，從而進入三羧酸循環之中。另外，三羧酸循環的許多中間體可供生物體利用。當中間產物不足時，可通過添補反應對中間產物進行補充。當乙醯輔酶A進入三羧酸循環，並製造身體所需能量三磷酸腺苷\(ATP\)。
 
-<p align="center">
-<img width=400 src="/assets/citric-cycle.jpg">
-</p>
+![](../.gitbook/assets/citric-cycle.jpg)
 
 ## 補充資料
-
----
 
 * [History of the ketogenic diet](http://onlinelibrary.wiley.com/doi/10.1111/j.1528-1167.2008.01821.x/full) \(James W. Wheless published at 2008/11/04\)
 * [Ketogenic diet](https://en.wikipedia.org/wiki/Ketogenic_diet) \(wikipedia\)
 * [Ketone bodies: a review of physiology, pathophysiology, and application of monitoring to diabetes](http://onlinelibrary.wiley.com/doi/10.1002/%28SICI%291520-7560%28199911/12%2915:6<412::AID-DMRR72>3.0.CO;2-8/abstract;jsessionid=1DE3A322F4D3F3B8818257BDAA752166.f04t01) \(中文大意 酮體：評論其在生理學、病理生理學及糖尿病監控的應用\)
 * [What is beta hydroxybutyrate or BHB?](https://www.perfectketo.com/what-is-betahydroxybutyrate-or-bhb/)
 
----
-
-<p align="center">
-<b>本章節的線上版本</b>
-<br />
-<a href="https://goo.gl/rWzwo1" title="第一章 什麼是酮症？為何要處在這種狀態中？">https://goo.gl/rWzwo1</a>
-<br />
-<img alt="第一章 什麼是酮症？為何要處在這種狀態中？" src="/assets/chart-01.png">
-</p>
-
+ **本章節的線上版本**  
+ [https://goo.gl/rWzwo1](https://goo.gl/rWzwo1)  
+ ![&#x7B2C;&#x4E00;&#x7AE0; &#x4EC0;&#x9EBC;&#x662F;&#x916E;&#x75C7;&#xFF1F;&#x70BA;&#x4F55;&#x8981;&#x8655;&#x5728;&#x9019;&#x7A2E;&#x72C0;&#x614B;&#x4E2D;&#xFF1F;](../.gitbook/assets/chart-01.png)
 

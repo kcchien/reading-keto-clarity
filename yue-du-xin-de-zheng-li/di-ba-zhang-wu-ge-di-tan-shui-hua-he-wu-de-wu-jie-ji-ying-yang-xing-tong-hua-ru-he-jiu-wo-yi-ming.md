@@ -2,8 +2,6 @@
 
 ## Five Low-Carb Mistakes and How Nutritional Ketosis Rescued Me
 
----
-
 本章主要是作者Jimmy Moore分享其進行生酮飲食的過程中，無法順利進入酮症的錯誤經驗，並將其歸納出五點。分別是：
 
 1. 攝取太多蛋白質
@@ -20,8 +18,6 @@
 
 ## 攝取太多蛋白質
 
----
-
 參閱第四章判斷你個人的蛋白質門檻
 
 對生酮飲食常見的錯誤刻板印象：低碳水化合物飲食應該搭配高蛋白質
@@ -32,14 +28,11 @@
 
 > **要進入生酮必需要低碳，但低碳不一定會生酮!!**
 
-蛋白質對身體有益，攝取過多蛋白質最大的問題，在於「[**糖質新生**](https://zh.wikipedia.org/zh-tw/糖异生 "糖質新生-維基百科")」。肝臟會將多的蛋白質轉換為葡萄糖，而且會加劇你的飢餓感與對食物的渴望。
+蛋白質對身體有益，攝取過多蛋白質最大的問題，在於「[**糖質新生**](https://zh.wikipedia.org/zh-tw/糖异生)」。肝臟會將多的蛋白質轉換為葡萄糖，而且會加劇你的飢餓感與對食物的渴望。
 
 ## 使用尿液試紙來檢驗酮體值
 
----
-
-尿液中的酮體為**乙酰乙酸\(AcAc\)**，酮體成為你身體主要燃料時，乙酰乙酸會轉變成**β- 羥基丁酸\(見下方示意圖\)**，所以一定要透過血液或是呼吸檢驗
-<img width="720" alt="脂肪酸分解酮體示意" src="https://i.imgur.com/ApxGSEV.jpg">
+尿液中的酮體為**乙酰乙酸\(AcAc\)**，酮體成為你身體主要燃料時，乙酰乙酸會轉變成**β- 羥基丁酸\(見下方示意圖\)**，所以一定要透過血液或是呼吸檢驗 ![&#x8102;&#x80AA;&#x9178;&#x5206;&#x89E3;&#x916E;&#x9AD4;&#x793A;&#x610F;](https://i.imgur.com/ApxGSEV.jpg)
 
 使用尿液檢驗的誤區及不可靠的原因：
 
@@ -54,8 +47,6 @@
 
 ## 沒有攝取足夠的飽和與單元不飽和脂肪酸
 
----
-
 膳食脂肪的被汙名化，在於我們過去接受的論點飽和脂肪酸是有害的！也因此許多採用低碳飲食的人，同時也減少了脂肪的攝取。這對要進入營養性酮化狀態，是致命的錯誤！
 
 攝取更多脂肪是避免飢餓與渴望進食的最佳方式，尤其是針對碳水化合物的渴望。
@@ -66,8 +57,6 @@
 
 ## 問題與延伸
 
----
-
 * 生酮讓人覺得失敗的原因？
 * 除了這五個常見的誤解，還有其他的嗎？
 * 使用血糖值來推算血酮值區間的誤差及可信度？
@@ -75,23 +64,11 @@
 
 ## 補充資料
 
----
-
-* [An Epic Debunking of The Saturated Fat Myth 揭穿飽和脂肪的傳說](https://www.healthline.com/nutrition/it-aint-the-fat-people "An Epic Debunking of The Saturated Fat Myth")
-
-* [Saturated fat does not clog the arteries: coronary heart disease is a chronic inflammatory condition, the risk of which can be effectively reduced from healthy lifestyle interventions 英國運動醫學雜誌上所刊登的文章：飽和脂肪並不會阻塞動脈，冠狀動脈心臟疾病是慢性炎症](http://bjsm.bmj.com/content/51/15/1111 "Saturated fat does not clog the arteries: coronary heart disease is a chronic inflammatory condition, the risk of which can be effectively reduced from healthy lifestyle interventions")
-
-
+* [An Epic Debunking of The Saturated Fat Myth 揭穿飽和脂肪的傳說](https://www.healthline.com/nutrition/it-aint-the-fat-people)
+* [Saturated fat does not clog the arteries: coronary heart disease is a chronic inflammatory condition, the risk of which can be effectively reduced from healthy lifestyle interventions 英國運動醫學雜誌上所刊登的文章：飽和脂肪並不會阻塞動脈，冠狀動脈心臟疾病是慢性炎症](http://bjsm.bmj.com/content/51/15/1111)
 * [5 Ways to Measure Your Ketones \(5種測試酮體的方法\)](http://drjockers.com/5-ways-to-measure-your-ketones/)
 
----
-
-<p align="center">
-<b>本章節的線上版本</b>
-<br />
-<a href="https://goo.gl/KtebMm" title="第八章 五個低碳水化合物的誤解及營養性酮化如何救我一命">https://goo.gl/KtebMm</a>
-<br />
-<img alt="第八章 五個低碳水化合物的誤解及營養性酮化如何救我一命" src="/assets/chart-08.png">
-</p>
-
+ **本章節的線上版本**  
+ [https://goo.gl/KtebMm](https://goo.gl/KtebMm)  
+ ![&#x7B2C;&#x516B;&#x7AE0; &#x4E94;&#x500B;&#x4F4E;&#x78B3;&#x6C34;&#x5316;&#x5408;&#x7269;&#x7684;&#x8AA4;&#x89E3;&#x53CA;&#x71DF;&#x990A;&#x6027;&#x916E;&#x5316;&#x5982;&#x4F55;&#x6551;&#x6211;&#x4E00;&#x547D;](../.gitbook/assets/chart-08.png)
 
